@@ -19,8 +19,13 @@ class Accumulator:
 
 def use_svg_display():
     """Use svg format to display plot in jupyter"""
-    # 用矢量图显示
     display.set_matplotlib_formats('svg')
+
+from IPython import get_ipython
+
+def use_svg_display():
+    """Use svg format to display plot in Jupyter"""
+    get_ipython().run_line_magic('config', "InlineBackend.figure_format = 'svg'")
 
 def set_axes(axes, xlabel, ylabel, xlim, ylim, xscale, yscale, legend):
     """Set the axes for matplotlib."""

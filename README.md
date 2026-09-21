@@ -415,7 +415,7 @@ This course is meticulously designed to provide a solid foundation in programmin
         </a>
         <br />
         <a href="#" title="Score">6️⃣</a> 
-        <a href="https://github.com/iphysresearch/GWData-Bootcamp/commits/homework?author=SuperAmazingMeng" title="Commit">✅️</a> 
+        <a href="https://github.com/iphysresearch/GWData-Bootcamp/commits/homework?author=xiaofeng-meng" title="Commit">✅️</a> 
       </td>
       <td align="center" valign="top" width="14.28%">
         <a href="https://github.com/Qinglsr">
